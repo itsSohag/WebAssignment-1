@@ -1,0 +1,142 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+    background-color: #fefefe;
+}
+
+.syllabus{
+    position: absolute;
+    left: 0.5%; 
+    border: 2px solid black;
+    margin-bottom: 10px !important;
+    padding: 0px 5px 0px 10px;
+}
+
+.classextra{
+    float: left;
+    position: relative;
+    margin-top: -10px;
+    background-color: green;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: underline;
+    font-weight: 550;
+}
+
+.main{
+    position: absolute;
+    margin-top: 5%;
+    left: 1%;
+    display: block;
+}
+
+#mid{
+    float: left;
+    position: relative;
+    margin-top: -10px;
+    background-color: #adadad;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: underline;
+    font-weight: 710;
+    border: 1px solid black;
+
+}
+
+.information{
+    float: left;
+    display: inline-block;
+    position: relative;
+    left: 6%;
+}
+
+.weekserial{
+    position: relative;
+    padding: 10px;
+    background-color:  #f3f4f6;
+    font-weight: bold;
+    color: #4e5566;
+    float: left;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.row{
+    display: flow-root;
+}
+
+.newinformation{
+    float: left;
+    display: inline-block;
+    position: relative;
+    left: 5%;
+}
+
+.lecture{
+    font-size: 20px;
+}
+
+#semester{
+    float: left;
+    position: relative;
+    margin-top: -10px;
+    background-color: rosybrown;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: underline;
+    font-weight: 710;
+}
+
+.class1{
+    float: left;
+    position: relative;
+    margin-top: -10px;
+    background-color: #e6cfff;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: underline;
+    font-weight: 710;
+}
+
+.class2{
+    position: relative;
+    float: left;
+    margin-left: 10px;
+    margin-top: -10px;
+    background-color: #5858da;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: underline;
+    font-weight: 710;
+}
+
+.class3{
+    position: relative;
+    float: left;
+    margin-left: 10px;
+    margin-top: -10px;
+    background-color: #ffb66f;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: underline;
+    font-weight: 710;
+}
+
+.class4{
+    position: relative;
+    float: left;
+    margin-left: 10px;
+    margin-top: -10px;
+    background-color: #87efac;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: underline;
+    font-weight: 710;
+}
+
+
+.viva{
+    background-color: deeppink;
+    border-radius: 15%;
+}
+
+
